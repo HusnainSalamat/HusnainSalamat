@@ -1,9 +1,9 @@
 # 💫 Hi 👋, I'm Husnain Salamat
 **A passionate ASP Dot Net Engineer**
 
-Email Me 👉 ✉️ **husnainsalamat205@gmail.com** For Collaboration/Project or Anything Else. 
+Email Me 👉 ✉️ **husnainsalamat205@gmail.com** For Collaboration/Project or Development help. 
 
-- 🔭 **I’m currently working on:** Varioos Projects for skill enhancements
+- 🔭 **I’m currently working on:** Various Projects for skill enhancements
 - 🌱 **I’m currently learning:** Dot Net applications
 - 💬 **Ask me about:** Collaboration, Development Support
 - 📫 **How to reach me:** husnainsalamat205@gmail.com
