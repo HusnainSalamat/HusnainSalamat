@@ -7,7 +7,7 @@ Email Me 👉 ✉️ **husnainsalamat205@gmail.com** For Collaboration/Project o
 - 🌱 **I’m currently learning:** Dot Net applications
 - 💬 **Ask me about:** Collaboration, Development Support
 - 📫 **How to reach me:** husnainsalamat205@gmail.com
-- 😄 **Pronouns:** Husnain
+- 😄 **Pronouns:** He
 
 ## 🔗 I am a Dot Net Developer. 😊😊
 # 💻 Tech Stack:
