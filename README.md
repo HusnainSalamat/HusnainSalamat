@@ -1,64 +1,73 @@
+```md
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:2563EB,100:06B6D4&text=Husnain%20Salamat&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ASP.NET%20Core%20Engineer%20|%20Full-Stack%20Developer%20|%20Founder%20of%20AxiomHub&descAlignY=58&descSize=18" />
+# Husnain Salamat
+
+### Founder @ AxiomHub • ASP.NET Core Engineer • Full-Stack Developer
+
+Building scalable software solutions, SaaS platforms, and marketplace applications that create real business value.
+
+<p>
+  <a href="https://www.axiomhub.io">
+    <img src="https://img.shields.io/badge/Website-AxiomHub-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:husnainsalamat205@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=HusnainSalamat&style=for-the-badge&color=2563EB" />
+</p>
 
 </div>
 
-<div align="center">
+---
 
-<a href="https://www.axiomhub.io">
-<img src="https://img.shields.io/badge/AxiomHub-Software%20Studio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+## About Me
 
-<a href="mailto:husnainsalamat205@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+I am a Full-Stack .NET Developer focused on building secure, scalable, and maintainable software systems.
 
-<img src="https://komarev.com/ghpvc/?username=HusnainSalamat&style=for-the-badge&color=2563EB"/>
+My expertise includes designing enterprise APIs, SaaS products, business portals, and marketplace platforms using modern Microsoft technologies and frontend frameworks.
 
-</div>
+Currently, I am growing **AxiomHub**, helping businesses transform ideas into reliable digital products.
 
 ---
 
-# 👋 About Me
+## What I Build
 
-I'm **Husnain Salamat**, a Full Stack .NET Developer passionate about building secure, scalable, and business-focused software solutions.
+🔹 Enterprise Web Applications
 
-I specialize in developing modern web applications, REST APIs, SaaS products, and marketplace platforms using **ASP.NET Core, SQL Server, React, Next.js, and Angular**.
+🔹 SaaS Platforms
 
-Currently building and growing **AxiomHub**, where I help businesses transform ideas into reliable software products.
+🔹 Marketplace Solutions
 
----
+🔹 REST APIs & Backend Systems
 
-## 🚀 What I Do
+🔹 ERP & CRM Software
 
-- 🔹 ASP.NET Core Development
-- 🔹 REST API Design & Integration
-- 🔹 Marketplace Platforms
-- 🔹 SaaS Applications
-- 🔹 Admin Dashboards
-- 🔹 SQL Server Architecture
-- 🔹 Authentication & Security
-- 🔹 Cloud Deployments
+🔹 Admin Dashboards
+
+🔹 Authentication & Security Systems
+
+🔹 Cloud-Ready Applications
 
 ---
 
-## 🏢 Featured Products
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 UDealZone
+### UDealZone
 
-A live online marketplace for:
+Multi-category marketplace platform enabling users to buy, sell, and promote:
 
-- Properties
+- Real Estate
 - Vehicles
 - Mobile Phones
 - Electronics
+- Services
 
-**Built With**
+#### Technology
 
 `ASP.NET Core`
 `SQL Server`
@@ -70,16 +79,90 @@ A live online marketplace for:
 
 <td width="50%" valign="top">
 
-### 🚀 AxiomHub
+### AxiomHub
 
-Software development studio focused on:
+Software development studio delivering:
 
-- Custom Web Applications
-- ERP & CRM Solutions
+- ERP Solutions
+- CRM Systems
 - Business Portals
-- Admin Dashboards
+- SaaS Products
 - API Development
 - Cloud Deployments
+
+Focused on building software that drives measurable business growth.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Technology Stack
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=cs,dotnet" />
+</p>
+
+- ASP.NET Core
+- Web API
+- Entity Framework Core
+- SQL Server
+- JWT Authentication
+- Clean Architecture
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,html,css" />
+</p>
+
+### Tools & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=azure,git,github,postman,vscode" />
+</p>
+
+---
+
+## Engineering Principles
+
+<table>
+<tr>
+<td>
+
+### Clean Architecture
+
+Building maintainable and scalable systems.
+
+</td>
+
+<td>
+
+### Security First
+
+Authentication, authorization, and data protection.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### Performance Focused
+
+Optimized APIs and efficient database design.
+
+</td>
+
+<td>
+
+### Business Driven
+
+Technology aligned with business goals.
 
 </td>
 </tr>
@@ -87,98 +170,58 @@ Software development studio focused on:
 
 ---
 
-<div align="center">
+## GitHub Analytics
 
-# 💻 Tech Stack
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=HusnainSalamat&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=HusnainSalamat&theme=github-dark&hide_border=true"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,angular,ts,js,html,css,mysql,azure,git,github,postman,vscode" />
-
-</div>
-
----
-
-## ⚡ Backend
-
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Web API](https://img.shields.io/badge/Web_API-0EA5E9?style=for-the-badge&logo=swagger&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+<p align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusnainSalamat&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
 ---
 
-## 🎨 Frontend
+## Current Focus
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
----
-
-<div align="center">
-
-# 📊 GitHub Statistics
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=HusnainSalamat&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HusnainSalamat&theme=tokyonight&hide_border=true"/>
-
-<br/>
-
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusnainSalamat&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+- Scaling AxiomHub
+- SaaS Product Development
+- Marketplace Platforms
+- Enterprise API Architecture
+- Modern Full-Stack Applications
 
 ---
 
-<div align="center">
+## Open To
 
-# 🏆 Core Principles
+✔ Freelance Projects
 
-</div>
+✔ Startup MVP Development
 
-✅ Clean Architecture
+✔ SaaS Platforms
 
-✅ Secure APIs
+✔ Marketplace Applications
 
-✅ Scalable Systems
-
-✅ Business-First Development
-
-✅ Maintainable Code
-
-✅ Reliable Delivery
+✔ Long-Term Collaborations
 
 ---
 
-<div align="center">
-
-# 🌍 Open To
-
-Freelance Projects • Startup MVPs • SaaS Platforms • Marketplace Applications • Long-Term Collaborations
-
-</div>
-
----
-
-<div align="center">
-
-# 📫 Connect With Me
+## Connect With Me
 
 📧 **husnainsalamat205@gmail.com**
 
 🌐 **https://www.axiomhub.io**
 
-💼 **LinkedIn:** Add Your LinkedIn URL
-
-</div>
+💼 **LinkedIn:** https://linkedin.com/in/your-profile
 
 ---
 
 <div align="center">
 
-### 💡 Building software that creates real business value.
+### Building software that powers businesses.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:06B6D4"/>
+⭐ If you like my work, consider following my journey.
 
 </div>
+```
