@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:2563EB,100:06B6D4&text=Husnain%20Salamat&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ASP.NET%20Core%20Engineer%20|%20Full-Stack%20Developer%20|%20Founder%20of%20AxiomHub&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:2563EB,100:9752d5&text=Husnain%20Salamat&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ASP.NET%20Core%20Engineer%20|%20Full-Stack%20Developer%20|%20Co-Founder%20of%20AxiomHub&descAlignY=58&descSize=18" />
 
 </div>
 
