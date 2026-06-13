@@ -1,208 +1,167 @@
-# Hi, I'm Husnain Salamat 👋
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:2563EB,100:06B6D4&text=Husnain%20Salamat&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ASP.NET%20Core%20Engineer%20|%20Full-Stack%20Developer%20|%20Founder%20of%20AxiomHub&descAlignY=58&descSize=18" />
+
+</div>
 
 <div align="center">
 
-### Founder of AxiomHub • ASP.NET Core Engineer • Full-Stack Developer
-
-Building scalable software products, enterprise APIs, SaaS platforms, and marketplace solutions.
-
-<br>
-
 <a href="https://www.axiomhub.io">
-    <img src="https://img.shields.io/badge/AxiomHub-Software%20Studio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/AxiomHub-Software%20Studio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="mailto:husnainsalamat205@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/HusnainSalamat">
-    <img src="https://img.shields.io/github/followers/HusnainSalamat?style=for-the-badge"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=HusnainSalamat&style=for-the-badge&color=2563EB"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 👋 About Me
 
-I'm a Full-Stack Software Engineer specializing in the Microsoft ecosystem and modern frontend technologies.
+I'm **Husnain Salamat**, a Full Stack .NET Developer passionate about building secure, scalable, and business-focused software solutions.
 
-I build scalable applications, secure APIs, SaaS products, ERP systems, CRM platforms, and large-scale marketplace solutions that help businesses grow.
+I specialize in developing modern web applications, REST APIs, SaaS products, and marketplace platforms using **ASP.NET Core, SQL Server, React, Next.js, and Angular**.
 
-```csharp
-public class HusnainSalamat
-{
-    public string Role => "Founder & Full Stack Developer";
-
-    public string Company => "AxiomHub";
-
-    public string[] Expertise =>
-    [
-        "ASP.NET Core",
-        "REST APIs",
-        "SQL Server",
-        "React",
-        "Next.js",
-        "Angular",
-        "SaaS Applications",
-        "Marketplace Platforms"
-    ];
-}
-```
+Currently building and growing **AxiomHub**, where I help businesses transform ideas into reliable software products.
 
 ---
 
-# 🏢 Company
+## 🚀 What I Do
 
-## AxiomHub
+- 🔹 ASP.NET Core Development
+- 🔹 REST API Design & Integration
+- 🔹 Marketplace Platforms
+- 🔹 SaaS Applications
+- 🔹 Admin Dashboards
+- 🔹 SQL Server Architecture
+- 🔹 Authentication & Security
+- 🔹 Cloud Deployments
 
-A software development company focused on building reliable digital products and business solutions.
+---
 
-### Services
+## 🏢 Featured Products
 
-- ERP Development
-- CRM Solutions
-- SaaS Platforms
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 UDealZone
+
+A live online marketplace for:
+
+- Properties
+- Vehicles
+- Mobile Phones
+- Electronics
+
+**Built With**
+
+`ASP.NET Core`
+`SQL Server`
+`React`
+`Next.js`
+`JWT Authentication`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 AxiomHub
+
+Software development studio focused on:
+
 - Custom Web Applications
+- ERP & CRM Solutions
+- Business Portals
 - Admin Dashboards
 - API Development
 - Cloud Deployments
 
-🌐 **https://www.axiomhub.io**
+</td>
+</tr>
+</table>
 
 ---
-
-# 🛒 Featured Product
-
-## UDealZone
-
-A modern online marketplace platform connecting buyers and sellers across multiple categories.
-
-### Categories
-
-🏠 Real Estate
-
-🚗 Vehicles
-
-📱 Mobile Phones
-
-💻 Electronics
-
-🛠 Services
-
-### Built With
-
-```text
-ASP.NET Core
-Entity Framework Core
-SQL Server
-React
-Next.js
-JWT Authentication
-```
-
----
-
-# 💻 Technology Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,angular,ts,js,html,css,azure,git,github,postman,vscode" />
+# 💻 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,angular,ts,js,html,css,mysql,azure,git,github,postman,vscode" />
 
 </div>
 
 ---
 
-# ⚙️ Backend Development
+## ⚡ Backend
 
-| Technology | Level |
-|------------|--------|
-| ASP.NET Core | ⭐⭐⭐⭐⭐ |
-| Web APIs | ⭐⭐⭐⭐⭐ |
-| SQL Server | ⭐⭐⭐⭐⭐ |
-| Entity Framework Core | ⭐⭐⭐⭐⭐ |
-| JWT Authentication | ⭐⭐⭐⭐⭐ |
-| Clean Architecture | ⭐⭐⭐⭐⭐ |
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API-0EA5E9?style=for-the-badge&logo=swagger&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ---
 
-# 🎨 Frontend Development
+## 🎨 Frontend
 
-| Technology | Level |
-|------------|--------|
-| React | ⭐⭐⭐⭐⭐ |
-| Next.js | ⭐⭐⭐⭐⭐ |
-| Angular | ⭐⭐⭐⭐ |
-| TypeScript | ⭐⭐⭐⭐⭐ |
-| JavaScript | ⭐⭐⭐⭐⭐ |
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
-
-# 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HusnainSalamat&show_icons=true&theme=github_dark&hide_border=true"/>
+# 📊 GitHub Statistics
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=HusnainSalamat&theme=github-dark&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=HusnainSalamat&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<br>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HusnainSalamat&theme=tokyonight&hide_border=true"/>
 
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusnainSalamat&layout=compact&theme=github_dark&hide_border=true"/>
+<br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusnainSalamat&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🎯 Current Focus
+<div align="center">
 
-```yaml
-Building:
-  - SaaS Products
-  - ERP Systems
-  - CRM Solutions
-  - Marketplace Platforms
+# 🏆 Core Principles
 
-Learning:
-  - Cloud Architecture
-  - Scalable System Design
+</div>
 
-Growing:
-  - AxiomHub
-```
+✅ Clean Architecture
 
----
+✅ Secure APIs
 
-# 🏆 Engineering Principles
+✅ Scalable Systems
 
-### Clean Architecture
+✅ Business-First Development
 
-Building software that remains maintainable as it grows.
+✅ Maintainable Code
 
-### Security First
-
-Protecting applications through secure authentication and authorization.
-
-### Scalability
-
-Designing systems that can support increasing business demands.
-
-### Business Value
-
-Technology should solve real business problems.
+✅ Reliable Delivery
 
 ---
 
-# 🤝 Open To
+<div align="center">
 
-- Freelance Projects
-- Startup MVP Development
-- SaaS Applications
-- Enterprise Solutions
-- Long-Term Collaborations
+# 🌍 Open To
+
+Freelance Projects • Startup MVPs • SaaS Platforms • Marketplace Applications • Long-Term Collaborations
+
+</div>
 
 ---
+
+<div align="center">
 
 # 📫 Connect With Me
 
@@ -210,12 +169,16 @@ Technology should solve real business problems.
 
 🌐 **https://www.axiomhub.io**
 
-💼 **LinkedIn:** https://linkedin.com/in/your-linkedin
+💼 **LinkedIn:** **https://www.linkedin.com/in/husnain-salamat-195b8a321/**
+
+</div>
 
 ---
 
 <div align="center">
 
-### Building software that creates measurable business value.
+### 💡 Building software that creates real business value.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:06B6D4"/>
 
 </div>
