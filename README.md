@@ -1,26 +1,184 @@
-# 💫 Hi 👋, I'm Husnain Salamat
-**A passionate ASP.NET Engineer with Angular,React and .NET Expertise**
+<div align="center">
 
-Email Me 👉 ✉️ **husnainsalamat205@gmail.com** For Collaboration/Project or Development help. 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F172A,50:2563EB,100:06B6D4&text=Husnain%20Salamat&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ASP.NET%20Core%20Engineer%20|%20Full-Stack%20Developer%20|%20Founder%20of%20AxiomHub&descAlignY=58&descSize=18" />
 
-- 🔭 **I’m currently working on:** Various Projects for skill enhancements
-- 🌱 **I’m currently learning:** Dot Net and Angular applications
-- 💬 **Ask me about:** Collaboration, Development Support
-- 📫 **How to reach me:** husnainsalamat205@gmail.com
-- 😄 **Pronouns:** He
+</div>
 
-## 🔗 I am an ASP.NET Developer. 😊😊
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=plastic&logo=angular&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=HusnainSalamat&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=HusnainSalamat&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HusnainSalamat&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=HusnainSalamat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<a href="https://www.axiomhub.io">
+<img src="https://img.shields.io/badge/AxiomHub-Software%20Studio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:husnainsalamat205@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=HusnainSalamat&style=for-the-badge&color=2563EB"/>
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=HusnainSalamat&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👋 About Me
+
+I'm **Husnain Salamat**, a Full Stack .NET Developer passionate about building secure, scalable, and business-focused software solutions.
+
+I specialize in developing modern web applications, REST APIs, SaaS products, and marketplace platforms using **ASP.NET Core, SQL Server, React, Next.js, and Angular**.
+
+Currently building and growing **AxiomHub**, where I help businesses transform ideas into reliable software products.
+
+---
+
+## 🚀 What I Do
+
+- 🔹 ASP.NET Core Development
+- 🔹 REST API Design & Integration
+- 🔹 Marketplace Platforms
+- 🔹 SaaS Applications
+- 🔹 Admin Dashboards
+- 🔹 SQL Server Architecture
+- 🔹 Authentication & Security
+- 🔹 Cloud Deployments
+
+---
+
+## 🏢 Featured Products
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 UDealZone
+
+A live online marketplace for:
+
+- Properties
+- Vehicles
+- Mobile Phones
+- Electronics
+
+**Built With**
+
+`ASP.NET Core`
+`SQL Server`
+`React`
+`Next.js`
+`JWT Authentication`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🚀 AxiomHub
+
+Software development studio focused on:
+
+- Custom Web Applications
+- ERP & CRM Solutions
+- Business Portals
+- Admin Dashboards
+- API Development
+- Cloud Deployments
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+# 💻 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=cs,dotnet,react,nextjs,angular,ts,js,html,css,mysql,azure,git,github,postman,vscode" />
+
+</div>
+
+---
+
+## ⚡ Backend
+
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/Web_API-0EA5E9?style=for-the-badge&logo=swagger&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+---
+
+## 🎨 Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+---
+
+<div align="center">
+
+# 📊 GitHub Statistics
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=HusnainSalamat&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HusnainSalamat&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusnainSalamat&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+# 🏆 Core Principles
+
+</div>
+
+✅ Clean Architecture
+
+✅ Secure APIs
+
+✅ Scalable Systems
+
+✅ Business-First Development
+
+✅ Maintainable Code
+
+✅ Reliable Delivery
+
+---
+
+<div align="center">
+
+# 🌍 Open To
+
+Freelance Projects • Startup MVPs • SaaS Platforms • Marketplace Applications • Long-Term Collaborations
+
+</div>
+
+---
+
+<div align="center">
+
+# 📫 Connect With Me
+
+📧 **husnainsalamat205@gmail.com**
+
+🌐 **https://www.axiomhub.io**
+
+💼 **LinkedIn:** Add Your LinkedIn URL
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Building software that creates real business value.
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,50:2563EB,100:06B6D4"/>
+
+</div>
